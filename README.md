@@ -1,4 +1,4 @@
-# Master's Final Project to access the the Master in Particle Physics and Physics of the Cosmos (IFCA-UC) 
+# Master's Final Project to access the Master in Particle Physics and Physics of the Cosmos (IFCA-UC) 
 
 
 ## Author: Laura Pérez Molina
