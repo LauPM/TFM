@@ -5,7 +5,7 @@
 
 ### Title: Obtaining temperature maps of the CMB anisotropies, correlated and uncorrelated with polarization
 
-### Supervisors: Patricio Vielva y Elena de la Hoz Lopez Collado
+### Supervisors: Patricio Vielva y Elena de la Hoz López Collado
 
 
 
