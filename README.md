@@ -15,7 +15,7 @@ The main idea of the protect is to analyse whether the correlated temperature CM
   - In equation (1.19) delta's are included twice as they are defined in equation (1.5).
   - In page 6 it should read _The central goal for the Planck mission was to extract all of the information in the CMB **temperature** anisotropies_.
   - Units are missing in equations (2.4) and (2.5).
-  - In equation (2.9) it may be helpful to define _a_ as we have the normalization condition. 
+  - In equation (2.9) it may be helpful to define _a_ using the information of the normalization. 
 
 #### Code erratum:
 
