@@ -20,6 +20,6 @@ The main idea of the protect is to analyse whether the correlated temperature CM
 #### Code erratum:
 
   - We have found that there is an error in the determination of the optimal degrees of the mask apodization, in the first version we have uploaded the result was 5 degrees but repeating the procedure 2 degrees is obtained. This error seems to solve the "divergence" at low \ell values that appears when the angular power spectra is computed with NaMaster.
-  - The dispersion table where foreground residuals are included need to be re-run to get coherent results according to the foreground level invluded. Not only that but may be it is necesary to rethink the "ideal" map which is used to compare as we do not include foreground residuals and this could increase the computed dispersion.
+  - The dispersion table where foreground residuals are included need to be re-run to get coherent results according to the foreground level included. Not only that but may be it is necesary to rethink the "ideal" map which is used to compare as we do not include foreground residuals and this could increase the computed dispersion.
 
 I will try to update more possible errors :)
